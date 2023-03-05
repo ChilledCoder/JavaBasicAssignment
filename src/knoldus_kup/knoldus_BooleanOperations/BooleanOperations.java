@@ -2,7 +2,7 @@ package knoldus_kup.knoldus_BooleanOperations;
 
 public class BooleanOperations {
     public static void main(String[] args) {
-    boolean  isCold=false;
+    boolean  isCold=true;
     boolean isRainy=false;
 
     if(isCold&&isRainy){
